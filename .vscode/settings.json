@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"locale": "c",
+		"so_long.h": "c",
+		"ostream": "c"
+	}
+}
