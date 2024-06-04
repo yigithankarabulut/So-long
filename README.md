@@ -1,7 +1,5 @@
 # So Long
 
-![So Long Demo](demo.gif)
-
 The purpose of the "So Long" 42 project is to simulate the movement of a character on a map and interact with specific objects. The player must navigate the character to a designated exit while overcoming obstacles.
 
 ## Features
@@ -21,4 +19,4 @@ The purpose of the "So Long" 42 project is to simulate the movement of a charact
 
 1. Clone this repository: `git clone https://github.com/yigithankarabulut/So-long.git`
 2. Compile the code: `make`
-3. Run Minishell: `./so_long ./maps/(...).ber`
+3. Run: `./so_long ./maps/(...).ber`
